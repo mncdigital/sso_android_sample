@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:layout_marginLeft="15dp"
+	android:layout_marginRight="15dp"
+	>
+	<TextView
+		android:layout_marginTop="15dp"
+		android:id="@+id/tvuuid"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="[uuid]"
+	/>
+	<TextView
+		android:id="@+id/tvusername"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="[username]"
+	/>
+	<TextView
+		android:id="@+id/tvstatus"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="[status]"
+	/>
+	<TextView
+		android:id="@+id/tvtoken"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="[token]"
+	/>
+	<Button
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="MNC Digital Login/Register"
+		android:padding="10dp"
+		android:onClick="onClickLogin"
+		android:layout_marginTop="15dp"
+	/>
+	<Button
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="MNC Digital Profile"
+		android:padding="10dp"
+		android:onClick="onClickProfile"
+	/>
+	<Button
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="MNC Digital Logout"
+		android:padding="10dp"
+		android:onClick="onClickLogout"
+	/>
+</LinearLayout>
+

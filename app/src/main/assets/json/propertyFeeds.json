@@ -1,0 +1,100 @@
+{
+	"status": 11,
+	"data": [
+		{
+			"_id": "00001",
+			"propCode": "PROPERTY_CODE",
+			"image": "http://www.rumahcitra.com/photos/61086-1.jpg",
+			"title": "Gaharu Residence",
+			"category": "Rumah",
+			"city": "Depok",
+			"province": "Jawa Barat",
+			"bedroom": "3",
+			"bathroom": "2",
+			"area": "90",
+			"_vrTour": {
+				"url": "http://www.smarteye.id/3dtourviewer?s=derawandive",
+				"detailTitle": "Descriptions",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_tdDesign": {
+				"src": "https://sketchfab.com/models/231fdb3e9e354c6faaa3c250f8c9988f/embed",
+				"detailTitle": "Descriptions",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_floorPlan": {
+				"images": [
+					"https://searchengineland.com/figz/wp-content/seloads/2015/08/movie-film-video-production-ss-1920-800x450.jpg",
+					"https://thenypost.files.wordpress.com/2014/11/movietheater131050-525x350.jpg?quality=90&strip=all&w=664&h=441&crop=1",
+					"https://cdn1.thr.com/sites/default/files/2012/11/movie_theater_interior_a_l.jpg"
+				],
+				"detailTitle": "Basic Info",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_location": {
+				"lng": "-6.3479",
+				"lat": "106.7048",
+				"detailTitle": "Nearby Location",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_price": {
+				"images": [
+					"https://www.paint-booths.com/blog/wp-content/uploads/2014/04/The-Price-Good-q.jpeg",
+					"https://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/price-objection-719771-edited.jpg",
+					"https://www.interest.co.nz/sites/default/files/embedded_images/house-price-inflation-expectations-2.jpg"
+				],
+				"detailTitle": "Price",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"price": "600.000.000"
+		},{
+			"_id": "00002",
+			"propCode": "PROPERTY_CODE",
+			"image": "http://admin.rumex.id/photos/10/Listing/1206/7785.jpg",
+			"title": "Gaharu Residence",
+			"category": "Rumah",
+			"city": "Binjai",
+			"province": "Kalimantan Barat",
+			"bedroom": "2",
+			"bathroom": "1",
+			"area": "90",
+			"_vrTour": {
+				"url": "http://www.smarteye.id/3dtourviewer?s=derawandive",
+				"detailTitle": "Descriptions",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_tdDesign": {
+				"src": "https://sketchfab.com/models/231fdb3e9e354c6faaa3c250f8c9988f/embed",
+				"detailTitle": "Descriptions",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_floorPlan": {
+				"images": [
+					"https://searchengineland.com/figz/wp-content/seloads/2015/08/movie-film-video-production-ss-1920-800x450.jpg",
+					"https://thenypost.files.wordpress.com/2014/11/movietheater131050-525x350.jpg?quality=90&strip=all&w=664&h=441&crop=1",
+					"https://cdn1.thr.com/sites/default/files/2012/11/movie_theater_interior_a_l.jpg"
+				],
+				"detailTitle": "Basic Info",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_location": {
+				"lng": "-6.3479",
+				"lat": "106.7048",
+				"detailTitle": "Nearby Location",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"_price": {
+				"images": [
+					"https://www.paint-booths.com/blog/wp-content/uploads/2014/04/The-Price-Good-q.jpeg",
+					"https://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/price-objection-719771-edited.jpg",
+					"https://www.interest.co.nz/sites/default/files/embedded_images/house-price-inflation-expectations-2.jpg"
+				],
+				"detailTitle": "Price",
+				"detailDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			},
+			"price": "400.000.000"
+		}
+	],
+	"message": "success"
+}
+
